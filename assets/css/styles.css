@@ -4,3 +4,7 @@ body{ background-color: lightgrey;
 h2{
     color: orange;
 }
+
+p{ font-weight: bold;
+
+}
